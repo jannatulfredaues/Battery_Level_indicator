@@ -1,0 +1,31 @@
+\chapter{Conclusion}
+
+%This is for reference only. Delete before finalization
+\begin{flushleft}
+
+This chapter summarizes the entire project, its limitations, and future directions. Reflections are made around the achievements of this project, obstacles that were faced during the implementation, and any feasible further development opportunities.
+\end{center}
+%This is for reference only. Delete before finalization
+
+\section{Summary}
+The project involves designing and building a very basic electronic circuit using breadboard, BC547 NPN transistors and LEDs, few resistors, Zener diodes and a 12V battery. The concept behind it is to have a very simple voltage regulated switching arrangement, to show that an electronic switch by using transistors can be switched on and off with a voltage applied between two different levels. LEDs do indicate these switching operations. The objective of this project was achieved and all components are working together to realize a simple but functional circuited concept of voltage regulation, current limiting and switching by transistor.
+Through practical learning experience by itself, the project outcome practically enlightens one not only physically towards electronics but would imply how simple components could also link towards developing a formed circuit using fundamental components into different applications, like home automation kits and education-based kits.\cite{b23}
+
+\section{Limitation}
+
+The project has many setbacks that cannot be concealed with the achievements and must be stated clearly:
+\newline\textbf{1.Component Limitations:} Use of standard components like the BC547 transistor and Zener diodes rated for the power input into a circuit places a limitation when working under higher voltage or currents, thus future iterations may involve the use of power components for applications or systems much more complex and with higher power requirements.
+\newline\textbf{2.Extent and Working:} This project used quite a simple circuit with few components making it very good for educational purposes only; however, for commercial use or scaling it up into high-end applications, power management, heat dissipation, and advanced voltage regulation options need to be considered very carefully.
+\newline\textbf{3.Energy Efficiency:} This is energy efficient for educational purposes but it can actually not be a great improvement in the long run because of the 12V battery; long term or huge installations will therefore need either improved energy efficiency when it comes to the source or improved optimization of the circuit.
+\newline\textbf{4.Limited Testing:} The testing environment was limited in terms of resources and simplicity of design. The scope of the project did not include more complex scenarios of testing with different kinds of loads or other types of voltage conditions.\cite{6}
+
+\section{Future Work}
+
+There is still a lot of innovation and extension that can be made to this project.
+\newline\textbf{1.Improvement in Power Sources :} This becomes the project with renewable energy use, as it will use rechargeable batteries or solar panels as the energy source which will be used outdoors or off-grid. 
+\newline\textbf{2.Expansion of Circuit Components:} Further development can be done with advanced components such as integrating microcontrollers or sensors to allow for the system's automation or remote control because this provides a closer approach to actual applications such as home automation systems.
+\newline\textbf{3.Commercialisation and Personalisation:} This would probably constitute a leap into commercialisation for the project since it would possess scalability due to kit of component customization features such as variable voltage levels to multiple channels, thus appealing to a much wider market of hobbyists and educationists. 
+\newline\textbf{4.Energy Management systems:} By using some modern energy management techniques like the improved voltage regulators or current buffers, the system would then be able to adopt larger loads or become more efficient in power consumption. So, it can widen the range of application for the circuit. 
+\newline\textbf{5.Educational Extension:} It also might serve as an improvement for the curriculum in which the students might modify or enhance the circuit designs as per certain requirements so that they learn more and innovate into basic electronics.\cite{5,b26}
+
+

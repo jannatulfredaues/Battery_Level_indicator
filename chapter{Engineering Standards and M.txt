@@ -1,0 +1,153 @@
+\chapter{Engineering Standards and Mapping}
+
+
+This chapter presents the engineering standards and practices that were used to develop and implement the electronic circuit. It covers the larger/social effects of the project such as its sustainability and ethical issues that it may create. Apart from that, the chapter includes the project management issues such as cost analysis, revenue models and teamwork by mapping the engineering problem to program outcomes.
+\end{center}
+%This is for reference only. Delete before finalization
+
+\section{Impact on Society, Environment and Sustainability}
+
+In this chapter, you will be acquainted with the implementation of the electric circuit having BC547 NPN transistors, LEDs, Zener diodes, and resistors. A clear description of performance analysis and the outcomes of the experiment are also provided.
+
+\subsection{Impact on Life}
+
+The circuit that is built using transistors, resistors, LEDs, and Zener diodes, besides proving a model for the demonstration of electronic components, shows how well these devices work in practice, thus, it also supports the understanding of the basic principles of electrical engineering. That kind of a project can develop knowledge especially in the educational programs where student’s practical learning of transistor switching circuits improves the understanding of electronics. They are real projects that bring on designs and applications that are more eco-friendly by applying low-cost, energy-efficient circuits.
+
+\subsection{Impact on Society \& Environment}
+
+
+Per a ‘strictly’ social point of view, the use of this technology provides a remarkable, capabilities-of-electronic-circuits-in-home-automation-and-industrial-applications, including voltage, applications of popular motors and the application of electronic circuits for performing industrial tasks and business production. Its power-saving and the fact that it is easy enough to be carved from stone, make it possible to be discarded without a footprint and hence, forever vanish from nature, it is therefore a projectile or a shuttle for teaching and experiment work.
+The circuit in the environmental setting is based on a 12V battery source to ensure that the elements eat less, thereby reducing the waste. Also, charts which provide a generative model for design highly reducing production, can be modified or customized according to different needs, thus e-Waste control can be effectuated.\cite{b17}
+
+\subsection{Ethical Aspects}
+
+In terms of ethics, the determination of resistors and Zener diodes by the right choice, thereby limiting the overcurrent and voltage spikes which might otherwise damage the circuit is indeed the safety that has been ensured. The project also takes into account the safe battery handling and disposal aspect which would curb the environmental pollution. In addition to that, the low-power components and materials that are reusable for the breadboard, materials that are used in a way of ethical way, are also an important part of the logic behind the design or assemblage.
+
+\subsection{Sustainability Plan}
+
+To improve the project's sustainability, the used components (resistors, transistors, diodes) are easily, cheaply, and widely available which in turn, decreases the environmental cost of production and distribution. Besides, the design by using the materials that are slaughtered en masse like breadboards and jumper wires, the design is convenient and easy to alter and convert for later projects thus even longer life and wider utilization is ensured. To add to that, the design by using the materials that are handy and cheap such as breadboards and jumper wires which are easy to procure and certainly green, is fine for jobs that require only replacement through easy modifications and redesigns of future projects.\cite{b18}
+
+
+%\section
+
+\section{Project Management and Team Work}
+
+
+This entire project was based on effective project management and teamwork. Each member was involved in the initial brainstorming sessions to the final test of the circuit; he or she contributed his or her expertise and knowledge so well to deliver the project requirements efficiently and on time. There were ongoing regular communications, delegations of tasks, and problem-solving that were worth the cost of overcoming challenges in the timely-progress toward completion. This collaborative approach was the key to a successful balancing of cost, functionality, and performance within this project.
+\vspace{.5 cm}
+\newline\textbf{Teamwork Dynamics:}
+It was a big task that was well planned with every member of the team taking responsibility for research and sourcing of components that could be made cheaper but of quality, with many checks on the price not sacrificing the performance of the circuit. The team determined once more the necessary components and avenues to cut costs for the circuit to fulfill its functional goals. The analysis also reveals the itemized costs reflecting individual and team decisions:
+\newline\textbf{1.Breadboard:} - It was selected due to its ease of use and reuse; it proved critical in prototyping the circuit.
+\newline\textbf{2.BC547 NPN Transistors (3 pcs):} - The transistors were chosen because they are very cheap and quite good at switching LEDs on and off.
+\newline\textbf{3.LEDs (Red, Yellow, Green):} - A set of three LEDs can glow depending on the voltage.
+\newline\textbf{4.Resistors (1kΩ, 10kΩ):} The right resistors were chosen with group members working together to make sure the appropriate current flow and voltage regulation.
+\newline\textbf{5.Zener Diodes (7.5V, 10V, 12V):} - The zener diodes were selected to regulate the voltage at certain levels so that the transistors operate within their safe operating limit.
+\vspace{.5 cm}
+\newline The cost breakdown indeed shows how a collective decision from the team assisted the team in strategic component selection and saving in cost without affecting circuit performance. As a team group, they assessed alternatives like making use of fewer components or a cheaper power supply, but finally came to the conclusion that the components they had chosen were the most ideal ones considering their performance to price ratio.\cite{b19} A table is given below showing each members contribution on making this paper-
+
+\begin{table}[h!]
+\centering
+\caption{Course Outcome Statements}
+\vspace{0.1cm} % Adds a 0.5 cm space between the caption and the table
+\begin{tabular}{|p{0.02\textwidth}|p{0.3\textwidth}|p{.6\textwidth}|}
+\hline
+\textbf{SI} & \textbf{Team Member Name} & \textbf{Contributions} \\
+\hline
+1 & Nur-A-Jannat & Chapter-1(Introduction) \\
+\hline
+2 & Jannatul Ferdaues & Chapter-2(Proposed Methodology/Architecture) \\
+\hline
+3 & MD Faisal Hosen & Chapter-3(Implementations and Results)\\
+\hline
+4 & MD AL Sayeed Shaikat & Chapter-4(Engineering Standards and Mapping)\\
+\hline
+5 & MD Nazmus Sakib & Chapter-5(Conclusion)\\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent\textbf{Alternative Budgeting and Team Decision Making:}
+The team would have reduced the number of transistors had it been more tight on the budget or could have resulted in a cheaper power source. However, the team felt they should stick with the same design for a better educational value since the concept of multiple transistor use and voltage regulation needed to be used as part of the learning experience. It is this kind of decision-making scenario that reflects teamwork dynamics, as each team member brought in their views about making optimum designs in functionalities and possible costs. The actual expenses reflect the contribution by the group to ensure that the project becomes affordable for educational purposes while keeping the technical requirements.
+\vspace{.5 cm}
+\newline\textbf{Revenue Model and Collaborative Strategy:}
+In the case of a scaled project for commercial or educational application, the team considered some future streams for revenue generation, using which their collaborative effort would be useful in pinpointing target markets, developing materials for instruction, and constructing pricing strategies. Key items of the revenue model would include:
+\vspace{.5 cm}
+
+
+
+
+
+
+
+
+ 
+
+\section{Complex Engineering Problem}
+
+This section addresses the complexity of the engineering challenge tackled by the project. It includes the process of integrating various components into a working circuit and how engineering standards were applied.
+
+\subsection{Mapping of Program Outcome} 
+
+The project aligns with the following Program Outcomes (POs) that assess the skills developed during the project:
+
+\begin{center}
+    \begin{table}[ht]
+        \centering
+        \caption{Justification of Program Outcomes}
+        \begin{tabular}{|p{0.2\textwidth}|p{0.7\textwidth}|}
+            \hline
+            \textbf{PO's} & \textbf{Justification} \\
+            \hline
+            PO1 & Engineering Knowledge.  \\
+            \hline
+            PO2 & Problem Analysis. \\
+            \hline
+            PO3 & Design/Development of Solutions. \\
+            \hline
+        \end{tabular}
+        \label{tab:po_justification}
+    \end{table}
+\end{center}
+
+
+
+\subsection{Complex Problem Solving} 
+
+The engineering challenge involved solving multiple conflicting requirements, such as selecting the correct resistors to ensure both voltage regulation and current control while keeping the circuit simple and cost-effective. The mapping table below illustrates the complexity of the problem-solving process:\cite{b20}. The table for complex problem-solving is shown in Table 4.2. 
+
+    \begin{table}[ht]
+        \centering
+        \caption{Mapping with complex problem-solving.}
+        \begin{tabular}{|p{0.12\textwidth}|p{0.12\textwidth}|p{0.12\textwidth}|p{0.12\textwidth}|p{0.12\textwidth}|p{0.12\textwidth}|p{0.12\textwidth}|}
+        \hline
+        EP1& EP2& EP3& EP4& EP5& EP6& EP7\\
+        Dept of Knowledge & Range of Conflicting Requirements & Depth of Analysis & Familiarity of Issues & Extent of Applicable Codes & Extent of Stakeholder Involvement & Inter-dependence\\
+        \hline 
+        This problem requires knowledge in basic electronics, including the understanding of transistors, LEDs, resistors, and diodes, and how to integrate these components into a functional circuit.\newline $\sqrt{}$ & Balancing cost, power efficiency, and accurate voltage detection while ensuring user safety and ease of use.\newline $\sqrt{}$ & Moderate analysis is required to select appropriate Zener diodes and resistor values to ensure proper voltage division and LED signaling.\newline $\sqrt{}$ & The issues encountered are common in electronic circuit design, with familiarity in basic component functions and troubleshooting methods.\newline $\sqrt{}$
+        &&&\\
+        &&&&&&\\
+        \hline 
+        \end{tabular}
+        \label{tab:p_solve}
+    \end{table}
+
+
+\pagebreak
+\subsection{Engineering Activities}
+ It actually includes field activities like iteration with theory in practical solving problems regarding electronics. Some specific activities include selection of components, circuit design, and validation of functional requirements.\cite{7}The table for complex engineering activities is shown in table 4.3.
+\begin{center}
+    \begin{table}[ht]
+        \centering
+                \caption{Mapping with complex engineering activities.}
+        \begin{tabular}{|p{0.18\textwidth}|p{0.18\textwidth}|p{0.18\textwidth}|p{0.18\textwidth}|p{0.18\textwidth}|}
+        \hline
+        EA1& EA2& EA3& EA4& EA5\\
+        Range of resources & Level of Interaction & Innovation & Consequences for society and environment & Familiarity\\
+        \hline 
+        The project uses readily available and low-cost resources such as BC547 transistors, resistors, and LEDs, making it an accessible project for many users.\newline $\sqrt{}$ & Interaction between components, including transistors, LEDs, and Zener diodes, requires careful consideration of the power supply and signal handling.\newline $\sqrt{}$ & The innovative aspect lies in the integration of simple components to create an efficient, reliable, and user-friendly battery monitoring solution.\newline $\sqrt{}$ & The project has positive implications for efficient battery management and sustainability by promoting proper charging and usage habits.\newline $\sqrt{}$ &\\
+        &&&&\\
+        \hline 
+        \end{tabular}
+        \label{tab:e_act}
+    \end{table}
+\end{center}
